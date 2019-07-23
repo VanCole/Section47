@@ -9,6 +9,10 @@ You are an elite soldier sent to clean up the place the more you can.
 ### Unreal Engine Version
 4.21.2
 
+### Time
+June 2019\
+Made in 3 months.
+
 ### Description
 This game was made during the last year of Créajeux cursus.\
 This game can be played solo or with a friend in cooperation.
