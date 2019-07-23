@@ -3,8 +3,8 @@
 Section 47 is a multiplayer coop, fast FPS, doom-like, rogue-like, pc game made with Unreal Engine 4.
 
 ### Synopsis
-An experiment in section 47 of the Darwin Corp. went wrong and zombies have infected all people in this place.\
-You are an elite soldier sent to clean up the place the more you can.
+An experiment of the Darwin Corporation went wrong and zombies have infected all people in this place.\
+You are an elite soldier of the Section 47  and you are sent to clean up the place.
 
 ### Unreal Engine Version
 4.21.2
@@ -17,7 +17,7 @@ Made in 3 months.
 This game was made during the last year of Créajeux cursus.\
 This game can be played solo or with a friend in cooperation.
 
-You evolve in a laboratory with many zombies inside and your goal is kill a maximum amount before you are killed.
+You evolve in a laboratory with many zombies inside and your goal is to kill a maximum amount before you are killed.
 
 When you play a run, you start in a spawn room, and your goal is to reach the end of the level.\
 Each level is procedurally generated : several rooms have been designed and they are arranged pseudo-randomly (with a set of rule).\
@@ -31,15 +31,16 @@ You begin with only a pistol, and you can pick more weapon directly in the level
 You can hold up to 3 weapons at the same time and cannot reload them unless you pick the same weapon again.\
 To get rid of empty weapons, you can throw them.
 
-There are several type of weapon :
+There are several types of weapon :
 - Pistol : basic weapon;
 - Rifle : auto shoot (you can shoot with the second barrel with right click);
-- Shotgun : short range but high dispersion (auto shoot with right click);
+- Shotgun : short range but high dispersion (auto shoot with right click pressed);
 - Rocket launcher : launch a rocket that explode on impact (or before with right click);
 - Grenade launcher : launch a grenade that explode after 3 bounces (throw the grenade launcher itself with right click, it wil explode with all its grenades!);
-- Laser gun : charge a laser and do precise and high amount of damages (zoom with right click)
+- Laser gun : charge a laser and do precise and high amount of damages (zoom with right click);
+- Mini gun : shoot after a little loading time (right click allow you to pass this loading time)
 
-In the level there are bonus like damage boost, speed boost etc.; and pick-ups like life regenration and armor regeneration.
+In the level there are bonus like damage boost, speed boost etc.; and pick-ups like life and armor regeneration.
 
 There are different type of enemies :
 - Zombies : the weakest and slowest enemy;
